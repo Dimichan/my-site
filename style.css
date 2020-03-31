@@ -163,7 +163,7 @@ body {
   display: inline-block;
   vertical-align: baseline;
   text-decoration: none;
-  text-transform: uppercase;
+  
   border-radius: 4px;
   background-color: #288be6;
   color: #ffffff;
@@ -191,6 +191,7 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
 h1{
-  color:red;
-  }
+  color: red;
+}
