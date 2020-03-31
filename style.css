@@ -191,4 +191,6 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
-}
+h1{
+  text-color:red;
+  }
